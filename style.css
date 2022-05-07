@@ -1,0 +1,40 @@
+body
+{
+    background-color: black;
+}
+
+center
+{
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 5px;
+    padding-top: 6px;
+}
+
+.note
+{
+    color: rgb(255, 0, 106);
+    font-size: x-large;
+    color: black;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    background-color: grey;
+    color: rgb(255, 0, 0);
+    bottom: 0;
+    text-align: center;
+    font-size: 30px;
+    width: 100%;
+}
+
+canvas
+{
+    box-shadow: 15px 15px 5px blue;
+    border-radius: 10px;
+    background-color: yellow;
+    margin-top: 0;
+}
